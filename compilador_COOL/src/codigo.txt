@@ -1,0 +1,4 @@
+Int Main(){ 
+    (*codigo*)
+    out_string(6 + 2);
+}
